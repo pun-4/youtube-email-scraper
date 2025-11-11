@@ -1,0 +1,16 @@
+[
+    {
+        "email": "contact@channel.com",
+        "profileUrl": "https://www.youtube.com/c/ChannelName",
+        "keyword": "jobs",
+        "location": "New York",
+        "country": "USA"
+    },
+    {
+        "email": "info@business.com",
+        "profileUrl": "https://www.youtube.com/c/BusinessName",
+        "keyword": "sales",
+        "location": "San Francisco",
+        "country": "USA"
+    }
+]
